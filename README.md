@@ -10,4 +10,4 @@
 - 💬 Ask me about premodern and 20th century military history, international cuisine, the beautiful game
 - 📫 How to reach me: Visit my personal website at 1nathanliang.github.io
 - 😄 PGP: He/him/his
-- ⚡ Fun fact: I hope to one day become a film director
+- ⚡ Fun fact: I hope to one day become either a sci-fi film director or EDM Producer
