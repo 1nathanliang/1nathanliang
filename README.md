@@ -3,11 +3,18 @@
 <!--
 **1nathanliang/1nathanliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<style>
+.blurb {
+  background-color: rgba(50,50,50,.5);
+}
+</style>
+<div class="blurb">
 - 🔭 I’m currently looking for postgrad employment
 - 🌱 I’m currently learning more about frontend dev
 - 👯 I’m looking to collaborate on moral psychology research projects
 - 🤔 I’m looking for help with Bayesian networks and machine learning
 - 💬 Ask me about premodern and 20th century military history, international cuisine, the beautiful game
-- 📫 How to reach me: Visit my <a href="1nathanliang.github.io">personal website</a>
+- 📫 How to reach me: Visit my <a href="https://1nathanliang.github.io">personal website</a>
 - 😄 PGP: He/him/his
 - ⚡ Fun fact: I hope to one day become either a sci-fi film director or EDM Producer
+ </div>
