@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on moral psychology research projects
 - 🤔 I’m looking for help with Bayesian networks and machine learning
 - 💬 Ask me about premodern and 20th century military history, international cuisine, the beautiful game
-- 📫 How to reach me: Visit my personal website at 1nathanliang.github.io
+- 📫 How to reach me: Visit my <a href="1nathanliang.github.io">personal website</a>
 - 😄 PGP: He/him/his
 - ⚡ Fun fact: I hope to one day become either a sci-fi film director or EDM Producer
