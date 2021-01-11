@@ -11,3 +11,5 @@
 - 📫 How to reach me: Visit my <a href="https://1nathanliang.github.io">personal website</a>
 - 😄 PGP: He/him/his
 - ⚡ Fun fact: I hope to one day become either a sci-fi film director or EDM Producer
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xT0xeqnIicEMUQ9fwc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dukeathletics-campus-duke-xT0xeqnIicEMUQ9fwc">via GIPHY</a></p>
