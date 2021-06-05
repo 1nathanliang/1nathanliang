@@ -4,6 +4,8 @@
 **1nathanliang/1nathanliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nathanliang)](https://github.com/1nathanliang/github-readme-stats)
+
 I'm a recent graduate of Duke University, where I studied psychology, neuroscience, and philosophy. I am interested in applying a background in cognition to tackle interdisciplinary challenges from an ecologically valid, evidence-based, and empirically-informed perspective on brain and behavior.
 
 My current research interests include the psychology and cognitive neuroscience of morality, dehumanization, religiosity, causation, free will, and normative ethics. I have previously also studied topics in lower-level cognitive processing such as mind wandering, memory, creativity, and imagination.
