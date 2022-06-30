@@ -1,19 +1,37 @@
-### Howdy 🤠
+## ʙᴀᴄᴋɢʀᴏᴜɴᴅ 🎓
 
-<!--
-**1nathanliang/1nathanliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a **lab manager** + **research specialist** in the 🐅 [*Princeton Social Neuroscience Lab*][1] working at the [Princeton Neuroscience Institute][2] and [Department of Psychology][3] with [Dr. Diana I. Tamir][4] at Princeton University.
 
-I'm a recent graduate of Duke University, where I studied psychology, neuroscience, and philosophy. I am interested in applying a background in cognition to tackle interdisciplinary challenges from an ecologically valid, evidence-based, and empirically-informed perspective on brain and behavior.
+I'll be starting as a moral psychology field experiment coordinator in the 🦅 [*Morality Lab*][13] as well as the Schiller Institute for Integrated Science and Society with [Dr. Liane Young][14] and [Dr. Gregg R. Sparkman][15] at Boston College in the summer of 2022.
 
-My current research interests include the psychology and cognitive neuroscience of morality, dehumanization, religiosity, causation, free will, and normative ethics. I have previously also studied topics in lower-level cognitive processing such as mind wandering, memory, creativity, and imagination.
+Previously, I completed my B.S. in psychology and minor in philosophy at Duke University where I worked as a research assistant in the the [*Mind at Large Lab*][6] and a postgraduate research fellow in the [*Imagination and Modal Cognition Lab*][5] and the [*Moral Attitudes and Decision-Making Lab*][7] under the supervision of [Dr. Paul Seli][9], [Dr. Felipe De Brigard][8], and [Dr. Walter Sinnott-Armstrong][10], respectively.
 
-I have experience in a wide range of software and coding languages, and am an avid advocate of robust, open science research practices. I am always looking for new opportunities to learn and grow as a scientist as I pursue a career in academia :)
+I'm fascinated by open questions in moral psychology (norms, justice, and emotions) and am currently applying computational methods to study social cognition. I also maintain a keen interest in the experimental philosophy of religion.
 
-🌱 I’m currently learning more about frontend dev <br>
-👯 I’m looking to collaborate on moral psychology research projects <br>
-🤔 I’m looking for help with Bayesian networks and machine learning <br>
-💬 Ask me about premodern and 20th century military history, international cuisine, the beautiful game <br>
-📫 How to reach me: Visit my <a href="https://1nathanliang.github.io">personal website</a> <br>
-😄 PGP: He/him/his <br>
-⚡ Fun fact: I hope to one day become either a sci-fi film director or EDM Producer <br>
+## sᴋɪʟʟs 🧑🏻‍💻
+
+I work almost exclusively in [tag:python] (e.g., `pandas`, `scikit-learn`, and `huggingface`) and `r` (`tidyverse`) to clean and analyze behavioral data, but I've also used `javascript` (i.e., `jQuery`, `React`) here and there. I'm currently looking to start using and `d3.js` more actively!
+
+As a psychology and neuroscience researcher, my day-to-day work involves `🎨` study design, `📉` statistical analysis, `📊` data visualization, and `📜` manuscript preparation. I also conduct `🧠` brain scans using `🧲` fMRI and data preprocessing via `🌐` high performance computing.
+
+## ᴄᴏɴᴛᴀᴄᴛ 📟
+
+Please feel free to reach out over email: <br>
+✉ `nathan [dot] liang [at] princeton [dot] edu`
+
+Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
+
+
+  [1]: https://psnlab.princeton.edu/
+  [2]: https://pni.princeton.edu/
+  [3]: https://psych.princeton.edu/
+  [4]: https://psych.princeton.edu/person/diana-tamir
+  [5]: https://www.imclab.org/
+  [6]: https://www.mindatlargelab.com/
+  [7]: https://kenan.ethics.duke.edu/mad-lab/
+  [8]: https://dibs.duke.edu/people/felipe-de-brigard
+  [9]: https://dibs.duke.edu/people/paul-seli
+  [10]: https://www.sinnott-armstrong.com/
+  [13]: https://moralitylab.bc.edu/
+  [14]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/liane-young.html
+  [15]: https://#
