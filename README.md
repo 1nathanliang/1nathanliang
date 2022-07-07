@@ -10,7 +10,7 @@ I graduated early in 2020 with a B.S. in psychology and minor in philosophy from
 
 I'm fascinated by open questions in moral psychology (social norms, justice, and empathy) and am interested in applying computational methods to try to answer them. I also maintain a keen interest in the experimental philosophy of religion.
 
-For a running list of my publications, please reference my [Google Scholar profile][15]. If you do not have access but would like to read any of my work in full, please feel free to reach out to me directly, and I'm happily provide you a full-text .pdf article.
+For a running list of my publications, please reference my [Google Scholar profile][15]. If you do not have access but would like to read any of my work in full, please feel free to reach out to me directly, and I'll happily provide you with a full-text copy of the article.
 
 ## sᴋɪʟʟs 🧑🏻‍💻
 
