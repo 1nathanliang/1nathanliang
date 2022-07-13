@@ -14,13 +14,13 @@ For a running list of my publications, please reference my [Google Scholar profi
 
 ## sᴋɪʟʟs 🧑🏻‍💻
 
-I work almost exclusively in `python` (e.g., `pandas`, `scikit-learn`, and `huggingface`) and `r` (`tidyverse`, `lme4`, and ``) to clean and analyze behavioral data, but I've also used `javascript` (i.e., `jQuery`, `React`) here and there. I'm currently looking to start using `d3.js` more actively!
+I work almost exclusively in `python` (e.g., `pandas`, `scikit-learn`, and `huggingface`) and `r` (`tidyverse`, `lme4`, and `psych`) to clean and analyze behavioral data, but I've also used `javascript` (i.e., `jquery`, `react`) here and there. I'm currently looking to start using `d3.js` more actively!
 
 As a psychology and neuroscience researcher, my day-to-day work involves `🎨` study design, `📉` statistical analysis, `📊` data visualization, and `📜` manuscript preparation. I also conduct `🧠` brain scans using `🧲` fMRI and data preprocessing via `🌐` high performance computing. As a project manager, I have also been responsible for administrative work including `💸` finance reports, `🏘️` community-building event organization, and `🗂️` database management.
 
 ## ғᴜɴ sᴛᴜғғ 🫠
 
-Outside of work, the love of my life will always be `⚽️` soccer. I also enjoy watching thought-provoking and emotionally resonant `🎬` sci-fi films, `🏃🏻` working out, and experimenting with `🎧` music production.
+Outside of work, the love of my life will always be `⚽️` soccer. I also enjoy watching thought-provoking and emotionally resonant `🎬` sci-fi films, `🏃` working out, and experimenting with `🎧` music production.
 
 ## ᴄᴏɴᴛᴀᴄᴛ 📟
 
