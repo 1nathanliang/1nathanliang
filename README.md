@@ -1,10 +1,10 @@
 ## ʙᴀᴄᴋɢʀᴏᴜɴᴅ 🎓
 
-Starting in the summer of 2022, I've been working as a **moral psychology field experiment research coordinator** in the 🦅 [*Morality Lab*][13] in the Department of Psychology and Neuroscience as well as the newly established Schiller Institute for Integrated Science and Society with [Dr. Liane Young][14] and [Dr. Gregg R. Sparkman][16] at Boston College.
+Starting in the summer of 2022, I've been working as a **moral psychology field experiment research coordinator** in the 🦅 [*Morality Lab*][1] in the Department of Psychology and Neuroscience as well as the newly established Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I've also become involved as a project manager for the [*Applied Cooperation Team*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MIT Sloan School of Business.
 
-Previously, I was a **lab manager** + **research specialist** in the 🐅 [*Princeton Social Neuroscience Lab*][1] working jointly in the [Princeton Neuroscience Institute][2] and [Department of Psychology][3] with [Dr. Diana I. Tamir][4] at Princeton University.
+Previously, I was a **lab manager** + **research specialist** in the 🐅 [*Princeton Social Neuroscience Lab*][7] working jointly in the Princeton Neuroscience Institute and Department of Psychology with [Dr. Diana I. Tamir][8] at Princeton University.
 
-I graduated early in 2020 with a B.S. in psychology and minor in philosophy from Duke University where I worked as a research assistant in the the [*Mind at Large Lab*][6] with [Dr. Paul Seli][9] and as a postgraduate research fellow in the [*Imagination and Modal Cognition Lab*][5] and the [*Moral Attitudes and Decision-Making Lab*][7] under the supervision of [Dr. Felipe De Brigard][8], and [Dr. Walter Sinnott-Armstrong][10], respectively.
+I graduated early in 2020 with a B.S. in psychology and minor in philosophy from Duke University where I worked as a research assistant in the the [*Mind at Large Lab*][9] with [Dr. Paul Seli][10] and as a postgraduate research fellow in the [*Imagination and Modal Cognition Lab*][11] and the [*Moral Attitudes and Decision-Making Lab*][12] under the supervision of [Dr. Felipe De Brigard][13], and [Dr. Walter Sinnott-Armstrong][14], respectively.
 
 ## ʀᴇsᴇᴀʀᴄʜ 🔬
 
@@ -30,18 +30,19 @@ Please feel free to reach out over email:<br>
 Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
 
 
-  [1]: https://psnlab.princeton.edu/
-  [2]: https://pni.princeton.edu/
-  [3]: https://psych.princeton.edu/
-  [4]: https://psych.princeton.edu/person/diana-tamir
-  [5]: https://www.imclab.org/
-  [6]: https://www.mindatlargelab.com/
-  [7]: https://kenan.ethics.duke.edu/mad-lab/
-  [8]: https://dibs.duke.edu/people/felipe-de-brigard
-  [9]: https://dibs.duke.edu/people/paul-seli
-  [10]: https://www.sinnott-armstrong.com/
-  [13]: https://moralitylab.bc.edu/
-  [14]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/liane-young.html
+  [1]: https://moralitylab.bc.edu/
+  [2]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/liane-young.html
+  [3]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/gregg-sparkman.html
+  [4]: https://cooperation.mit.edu/
+  [5]: https://davidrand-cooperation.com/
+  [6]: https://www.erezyoeli.com/
+  [7]: https://psnlab.princeton.edu/
+  [8]: https://psych.princeton.edu/person/diana-tamir
+  [9]: https://www.mindatlargelab.com/
+  [10]: https://dibs.duke.edu/people/paul-seli
+  [11]: https://www.imclab.org/
+  [12]: https://kenan.ethics.duke.edu/mad-lab/
+  [13]: https://dibs.duke.edu/people/felipe-de-brigard
+  [13]: https://www.sinnott-armstrong.com/
   [15]: https://scholar.google.com/citations?user=ArVElRwAAAAJ&hl=en&authuser=2
-  [16]: https://#
 
