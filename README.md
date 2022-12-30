@@ -20,7 +20,7 @@ As a psychology and neuroscience researcher, I enjoy an incredibly eclectic rang
 
 ## ғᴜɴ sᴛᴜғғ 🫠
 
-Outside of work, the love of my life will always be `⚽️` soccer. Despite the sportswashing rampant across basically every successful professional league, I'll begrudgingly watch EPL highlights on a rainy day. I also enjoy vacillating between thought-provoking and emotionally resonant `🎬` sci-fi films and low-brow action flicks, `🏃` working out, and experimenting with `🎧` music production.
+Outside of work, the love of my life will always be `⚽️` soccer. I also enjoy vacillating between thought-provoking and emotionally resonant `🎬` sci-fi films and low-brow action flicks, `🏃` working out, and experimenting with `🎧` music production.
 
 ## ᴄᴏɴᴛᴀᴄᴛ 📟
 
