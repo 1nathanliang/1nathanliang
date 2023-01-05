@@ -16,7 +16,7 @@ For a running list of my publications, please reference my [Google Scholar profi
 
 I work almost exclusively in `python` (e.g., `pandas`, `scikit-learn`, and `huggingface`) and `r` (`tidyverse`, `lme4`, and `psych`) to clean and analyze behavioral data, but I've also used `javascript` (i.e., `jquery`, `react`) here and there in shorter, aggressive bursts. I'm currently looking to start using `d3.js` more actively to visualize data for the web!
 
-As a psychology and neuroscience researcher, I enjoy an incredibly eclectic range of day-to-day work: `🎨` study design, `📉` statistical analysis, `📊` data visualization, and `📜` manuscript preparation, to name but a few. I've also conducted `🧠` brain scans using `🧲` fMRI and preprocessed data via `🌐` high performance computing. As a project manager, I've also been responsible for administrative work including `💸` finance reports, `🏘️` community-building event organization, and `🗂️` database management.
+As a psychology and neuroscience researcher, I enjoy an incredibly eclectic range of day-to-day work: `🎨` experimental design, `🤖` web scraping and automation, `⌨️` NLP, `🧮` ML, `📉` statistical analysis, `📊` data visualization, and `📜` manuscript preparation, to name but a *few*! I've also conducted `🧠` brain scans using `🧲` fMRI and preprocessed data via `🌐` high performance computing. As a project manager, I've been responsible for administrative work including `💸` finance reports, `🏘️` community-building event organization (`🥳` parties!), and `🗂️` database management.
 
 ## ғᴜɴ sᴛᴜғғ 🫠
 
@@ -25,7 +25,7 @@ Outside of work, the love of my life will always be `⚽️` soccer. I also enjo
 ## ᴄᴏɴᴛᴀᴄᴛ 📟
 
 Please feel free to reach out over email:<br>
-✉ `nathan [dot] liang [at] bc [dot] edu`
+✉ `nathan {dot} liang {at} bc {dot} edu`
 
 Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
 
