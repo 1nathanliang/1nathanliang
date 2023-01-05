@@ -45,4 +45,4 @@ Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
   [13]: https://dibs.duke.edu/people/felipe-de-brigard
   [14]: https://www.sinnott-armstrong.com/
   [15]: https://scholar.google.com/citations?user=ArVElRwAAAAJ&hl=en&authuser=2
-  [16]: https://github.com/1nathanliang/1nathanliang.github.io/files/papers
+  [16]: https://github.com/1nathanliang/1nathanliang.github.io/tree/main/files/papers
