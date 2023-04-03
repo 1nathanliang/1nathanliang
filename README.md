@@ -1,6 +1,8 @@
 ## ʙᴀᴄᴋɢʀᴏᴜɴᴅ 🎓
 
-Starting in the summer of 2022, I've been working as a **moral psychology field experiment project manager** in the 🦅 [*Morality Lab*][1] in the Department of Psychology and Neuroscience as well as the newly established Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I'm currently also research coordinator for the [*Applied Cooperation Team*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MiT Sloan School of Business. In brief, my job is to oversee behavioral studies that validate psychological interventions for good (e.g., supporting public health, increasing charitable donation, or promoting sustainable life practices) in the "real world."
+I am an incoming Ph.D. candidate funded by an NSF GRFP Fellowship in the [*Applied Moral Psychology Lab*][0] in the Department of Psychology at Cornell University studying moral psychology.
+
+From 2022–2023, I've been working as a **field experiment project manager** in the 🦅 [*Morality Lab*][1] in the Department of Psychology and Neuroscience as well as the newly established Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I'm currently also research coordinator for the [*Applied Cooperation Team*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MiT Sloan School of Business. In brief, my job is to oversee behavioral studies that validate psychological interventions for good (e.g., supporting public health, increasing charitable donation, or promoting sustainable life practices) in the "real world."
 
 Previously, I was a **lab manager** + **research specialist** in the 🐅 [*Princeton Social Neuroscience Lab*][7] working jointly in the Princeton Neuroscience Institute and Department of Psychology with [Dr. Diana I. Tamir][8] at Princeton University. There, I mostly contributed to analyses of behavioral data evincing interventions for empathy and interpersonal social connection.
 
@@ -30,6 +32,7 @@ Please feel free to reach out over email:<br>
 Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
 
 
+  [0]: https://lauraniemi.com/
   [1]: https://moralitylab.bc.edu/
   [2]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/liane-young.html
   [3]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/gregg-sparkman.html
