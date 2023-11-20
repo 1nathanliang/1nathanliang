@@ -27,7 +27,7 @@ Outside of work, the love of my life will always be `⚽️` soccer. I also enjo
 ## ᴄᴏɴᴛᴀᴄᴛ 📟
 
 Please feel free to reach out over email:<br>
-✉ `nl453 {at} cornell {dot} edu`
+`✉ nl453 {at} cornell {dot} edu`
 
 Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
 
