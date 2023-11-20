@@ -1,6 +1,6 @@
 ## ʙᴀᴄᴋɢʀᴏᴜɴᴅ 🎓
 
-I am a `🧸` first-year Ph.D. student in the [*Applied Moral Psychology Lab*][0] in the Department of Psychology at Cornell.
+I am a `🧸` first-year Ph.D. student in the [*Applied Moral Psychology (AMP) Lab*][0] in the Department of Psychology at Cornell studying how we can increase moral optimism and optimize our moral behavior.
 
 From 2022–2023, I was employed as a **field experiment project manager** in the `🦅` [*Morality Lab*][1] in the Department of Psychology and Neuroscience and Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I also served as research coordinator for the [*Applied Cooperation Initiative*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MiT Sloan School of Management. In brief, my job wass to oversee behavioral studies that validate psychological interventions for good (e.g., supporting public health, increasing charitable donation, or promoting sustainable life practices) in the "real world."
 
@@ -27,7 +27,7 @@ Outside of work, the love of my life will always be `⚽️` soccer. I also enjo
 ## ᴄᴏɴᴛᴀᴄᴛ 📟
 
 Please feel free to reach out over email:<br>
-✉ `nl453` `{at}` `cornell` `{dot}` `edu`
+✉ `nl453 {at} cornell {dot} edu`
 
 Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
 
