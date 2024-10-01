@@ -2,7 +2,7 @@
 
 I am a `🧸` second-year Ph.D. student in the [*Applied Moral Psychology (AMP) Lab*][0] in the Department of Psychology at Cornell studying how we can increase moral optimism and optimize our moral behavior.
 
-From 2022–2023, I was employed as a **field experiment project manager** in the `🦅` [*Morality Lab*][1] in the Department of Psychology and Neuroscience and Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I also served as research coordinator for the [*Applied Cooperation Initiative*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MiT Sloan School of Management. In brief, my job wass to oversee behavioral studies that validate psychological interventions for good (e.g., supporting public health, increasing charitable donation, or promoting sustainable life practices) in the "real world."
+From 2022–2023, I was employed as a **field experiment project manager** in the `🦅` [*Morality Lab*][1] in the Department of Psychology and Neuroscience and Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I also served as research coordinator for the [*Applied Cooperation Initiative*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MiT Sloan School of Management. In brief, my job was to oversee behavioral studies that validate psychological interventions for good (e.g., supporting public health, increasing charitable donation, or promoting sustainable life practices) in the "real world."
 
 Previously, I was a **lab manager** + **research specialist** in the `🐅` [*Princeton Social Neuroscience Lab*][7] working across the Princeton Neuroscience Institute and Department of Psychology with [Dr. Diana I. Tamir][8] at Princeton. There, I mostly contributed to analyses of behavioral data evincing interventions for empathy and interpersonal social connection.
 
@@ -19,6 +19,14 @@ For a running list of my publications, please reference my [Google Scholar profi
 I work almost exclusively in `python` (e.g., `pandas`, `scikit-learn`, and `huggingface`) and `r` (`tidyverse`, `lme4`, and `psych`) to clean and analyze behavioral data, but I've also used `javascript` (i.e., `jquery`, `react`) here and there in shorter, aggressive bursts. I'm currently looking to start using `d3.js` more actively to visualize data for the web!
 
 As a behavioral science researcher, I enjoy an incredibly eclectic range of day-to-day work: `🎨` experimental design, `🤖` web scraping and automation, `⌨️` NLP, `🧮` ML, `📉` statistical analysis, `📊` data visualization, and `📜` manuscript preparation, to name but a *few*! I've also conducted `🧠` brain scans using `🧲` fMRI and preprocessed data via `🌐` high performance computing.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## ғᴜɴ sᴛᴜғғ 🫠
 
