@@ -1,59 +1,18 @@
-## ʙᴀᴄᴋɢʀᴏᴜɴᴅ 🎓
+Hi, I'm Nathan :) I'm a quantitative behavioral scientist and psychology PhD student operating at the nexus of behavioral science, data science, and computational social science.
 
-I am a `🧸` second-year Ph.D. student in the [*Applied Moral Psychology (AMP) Lab*][0] in the Department of Psychology at Cornell studying how we can increase moral optimism and optimize our moral behavior.
+› ʙᴀᴄᴋɢʀᴏᴜɴᴅ
+I'm currently a 3rd-year PhD student in the Department of Psychology at Cornell advised by Professor Jordan C. Wylie. I leverage a diverse array of quant and machine learning methods to model how and why people: (1) exhibit curiosity to learn about immoral agents and behaviors; (2) perceive individuals who adhere to or deviate from rules; and (3) leverage moral praise to enforce cooperative behavior.
 
-From 2022–2023, I was employed as a **field experiment project manager** in the `🦅` [*Morality Lab*][1] in the Department of Psychology and Neuroscience and Schiller Institute for Integrated Science and Society with [Dr. Liane Young][2] and [Dr. Gregg R. Sparkman][3] at Boston College. I also served as research coordinator for the [*Applied Cooperation Initiative*][4] with [Dr. David Rand][5] and [Dr. Erez Yoeli][6] at the MiT Sloan School of Management. In brief, my job was to oversee behavioral studies that validate psychological interventions for good (e.g., supporting public health, increasing charitable donation, or promoting sustainable life practices) in the "real world."
+This past summer, I completed a PhD-level data science modeling internship at Discover Financial Services leveraging LLMs to assist the Anti-Money Laundering and Financial Crime Investigation Unit.
 
-Previously, I was a **lab manager** + **research specialist** in the `🐅` [*Princeton Social Neuroscience Lab*][7] working across the Princeton Neuroscience Institute and Department of Psychology with [Dr. Diana I. Tamir][8] at Princeton. There, I mostly contributed to analyses of behavioral data evincing interventions for empathy and interpersonal social connection.
+Previously, I studied the impact of social norms on virtuous behavior as a research technician in Professor Liane Young's Morality Lab and Professor Gregg Sparkman's Social Influence and Social Change Lab in the Boston College Department of Psychology and Neuroscience. Prior to this, I contributed to fMRI research on mental states and neural synchrony as a lab manager and research specialist in Professor Diana I. Tamir's Princeton Social Neuroscience Lab.
 
-I graduated early (during the COVID-19 pandemic) in 2020 with a B.S. in psychology and minor in philosophy from Duke University where I was a research assistant in the the [*Mind at Large Lab*][9] with [Dr. Paul Seli][10] and postgraduate research fellow in the [*Imagination and Modal Cognition Lab*][11] and [*Moral Attitudes and Decision-Making Lab*][12] under the supervision of [Dr. Felipe De Brigard][13], and [Dr. Walter Sinnott-Armstrong][14], respectively.
+I received my BS in psychology and minor in philosophy (cum laude) in 2020 from Duke University, where I worked primarily as a research assistant in Professor Felipe De Brigard's Imagination and Modal Cognition Lab on experimental philosophy projects related to memory and causal reasoning.
 
-## ʀᴇsᴇᴀʀᴄʜ 🔬
+› sᴋɪʟʟs
+I primarily work in Python (6+ years: 𝚙𝚊𝚗𝚍𝚊𝚜/𝚙𝚘𝚕𝚊𝚛𝚜, 𝚋𝚜𝟺/𝚜𝚎𝚕𝚎𝚗𝚒𝚞𝚖, 𝚙𝚢𝚝𝚘𝚛𝚌𝚑/𝚔𝚎𝚛𝚊𝚜/𝚜𝚌𝚒𝚔𝚒𝚝-𝚕𝚎𝚊𝚛𝚗, 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜, 𝚟𝚕𝚕𝚖) and R (5+ years: 𝚝𝚒𝚍𝚢𝚟𝚎𝚛𝚜𝚎, 𝚕𝚖𝚎𝟺, 𝚋𝚛𝚖𝚜) to clean and analyze behavioral data, but I also leverage JavaScript and JS frameworks (5+ years: jQuery, React.js, Next.js, jsPsych) to program and host web experiments.
 
-I'm fascinated by open questions in moral psychology (social norms and learning) and am interested in applying computational methods to try to answer them. I also maintain a keen interest in the experimental philosophy of religion.
+My eclectic day-to-day work includes study and stimulus design, ML and statistical modeling, data visualization, and manuscript preparation. I also have previous experience conducting brain imaging with fMRI and handling data preprocessing parallelized on high performance computing clusters.
 
-For a running list of my publications, please reference my [Google Scholar profile][15]. You can find full-text .pdf files of all my peer-reviewed journal articles directly from my website [repo][16]. If you would like to read any of my work in *progress*, please feel free to reach out to me directly, and I'll happily provide you with a copy.
-
-## sᴋɪʟʟs 🧑🏻‍💻
-
-I work almost exclusively in `python` (e.g., `pandas`, `scikit-learn`, and `huggingface`) and `r` (`tidyverse`, `lme4`, and `psych`) to clean and analyze behavioral data, but I've also used `javascript` (i.e., `jquery`, `react`) here and there in shorter, aggressive bursts. I'm currently looking to start using `d3.js` more actively to visualize data for the web!
-
-As a behavioral science researcher, I enjoy an incredibly eclectic range of day-to-day work: `🎨` experimental design, `🤖` web scraping and automation, `⌨️` NLP, `🧮` ML, `📉` statistical analysis, `📊` data visualization, and `📜` manuscript preparation, to name but a *few*! I've also conducted `🧠` brain scans using `🧲` fMRI and preprocessed data via `🌐` high performance computing.
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## ғᴜɴ sᴛᴜғғ 🫠
-
-Outside of work, the love of my life will always be `⚽️` soccer. I also enjoy vacillating between thought-provoking and emotionally resonant `🎬` sci-fi films and low-brow action flicks, `🏃` working out, and experimenting with `🎧` music production.
-
-## ᴄᴏɴᴛᴀᴄᴛ 📟
-
-Please feel free to reach out over email:<br>
-`✉ nl453 {at} cornell {dot} edu`
-
-Thanks for stopping by 👋🏼, and I hope you have a fantastic day! 😀
-
-
-  [0]: https://lauraniemi.com/
-  [1]: https://moralitylab.bc.edu/
-  [2]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/liane-young.html
-  [3]: https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/gregg-sparkman.html
-  [4]: https://cooperation.mit.edu/
-  [5]: https://davidrand-cooperation.com/
-  [6]: https://www.erezyoeli.com/
-  [7]: https://psnlab.princeton.edu/
-  [8]: https://psych.princeton.edu/person/diana-tamir
-  [9]: https://www.mindatlargelab.com/
-  [10]: https://dibs.duke.edu/people/paul-seli
-  [11]: https://www.imclab.org/
-  [12]: https://kenan.ethics.duke.edu/mad-lab/
-  [13]: https://dibs.duke.edu/people/felipe-de-brigard
-  [14]: https://www.sinnott-armstrong.com/
-  [15]: https://scholar.google.com/citations?user=ArVElRwAAAAJ&hl=en&authuser=2
-  [16]: https://github.com/1nathanliang/1nathanliang.github.io/tree/main/files/papers
+› ᴄᴏɴᴛᴀᴄᴛ
+Please feel free to reach out over email: nl453 [at] cornell [dot] edu
